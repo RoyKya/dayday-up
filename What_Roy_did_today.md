@@ -1,2 +1,5 @@
 7月5日
 看完了学堂在线的C++第一章
+
+7月14日
+刘铁猛教程2，学会用console、wpf和windows form写“hello， world”小程序。今天睡觉太多，明天要看3个视频
